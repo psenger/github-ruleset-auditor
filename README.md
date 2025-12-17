@@ -22,19 +22,19 @@ If you have dozens of repositories, manually configuring protection through the 
 
 ## What This Tool Does
 
-✅ Audits all your repos for existing branch protection
-✅ Generates a CSV manifest for you to review before making changes
-✅ Applies rulesets to unprotected repos (only the ones you choose)
-✅ Skips archived and forked repos automatically
-✅ Works with any default branch (`main`, `master`, `develop`, etc.)
+- ✅ Audits all your repos for existing branch protection
+- ✅ Generates a CSV manifest for you to review before making changes
+- ✅ Applies rulesets to unprotected repos (only the ones you choose)
+- ✅ Skips archived and forked repos automatically
+- ✅ Works with any default branch (`main`, `master`, `develop`, etc.)
 
 ## What This Tool Does NOT Do
 
-❌ Does not delete repositories or branches
-❌ Does not modify or overwrite existing rulesets
-❌ Does not store your token anywhere
-❌ Does not send data anywhere except GitHub's API
-❌ Does not require any external services or databases
+- ❌ Does not delete repositories or branches
+- ❌ Does not modify or overwrite existing rulesets
+- ❌ Does not store your token anywhere
+- ❌ Does not send data anywhere except GitHub's API
+- ❌ Does not require any external services or databases
 
 ## Security & Trust
 
